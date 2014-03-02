@@ -438,7 +438,7 @@ div.closeModalBoxButton {
 	padding: 6px;
 }
 .resetPadding input.btn:first-child,
-#content input.btn:first-child {
+#content input.btn:first-child:not([type="submit"]) {
 	display: none;
 }
 table.tableListing {
