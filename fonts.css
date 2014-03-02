@@ -3,13 +3,13 @@
   font-style: normal;
   font-weight: 400;
   src: 
-    url(/assets/fonts/Source_Sans_Pro/SourceSansPro-Regular.eot);
+    url(fonts/Source_Sans_Pro/SourceSansPro-Regular.eot);
   src:
     local('Source Sans Pro'), 
     local('SourceSansPro-Regular'), 
-      url(/assets/fonts/Source_Sans_Pro/SourceSansPro-Regular.eot)
+      url(fonts/Source_Sans_Pro/SourceSansPro-Regular.eot)
         format('embedded-opentype'),     
-      url(/assets/fonts/Source_Sans_Pro/SourceSansPro-Regular.woff)
+      url(fonts/Source_Sans_Pro/SourceSansPro-Regular.woff)
         format('woff');
 }
 @font-face {
@@ -17,13 +17,13 @@
   font-style: normal;
   font-weight: 700;
   src: 
-    url(/assets/fonts/Source_Sans_Pro/SourceSansPro-Bold.eot);
+    url(fonts/Source_Sans_Pro/SourceSansPro-Bold.eot);
   src: 
     local('Source Sans Pro Bold'), 
     local('SourceSansPro-Bold'), 
-      url(/assets/fonts/Source_Sans_Pro/SourceSansPro-Bold.eot)
+      url(fonts/Source_Sans_Pro/SourceSansPro-Bold.eot)
         format('embedded-opentype'), 
-      url(/assets/fonts/Source_Sans_Pro/SourceSansPro-Bold.woff)
+      url(fonts/Source_Sans_Pro/SourceSansPro-Bold.woff)
         format('woff');
 }
 @font-face {
@@ -31,13 +31,13 @@
   font-style: italic;
   font-weight: 400;
   src: 
-    url(/assets/fonts/Source_Sans_Pro/SourceSansPro-It.eot);
+    url(fonts/Source_Sans_Pro/SourceSansPro-It.eot);
   src: 
     local('Source Sans Pro Italic'), 
     local('SourceSansPro-It'), 
-      url(/assets/fonts/Source_Sans_Pro/SourceSansPro-It.eot)
+      url(fonts/Source_Sans_Pro/SourceSansPro-It.eot)
         format('embedded-opentype'), 
-      url(/assets/fonts/Source_Sans_Pro/SourceSansPro-It.woff)
+      url(fonts/Source_Sans_Pro/SourceSansPro-It.woff)
         format('woff');
 }
 @font-face {
@@ -45,12 +45,12 @@
   font-style: italic;
   font-weight: 700;
   src: 
-    url(/assets/fonts/Source_Sans_Pro/SourceSansPro-BoldIt.eot);
+    url(fonts/Source_Sans_Pro/SourceSansPro-BoldIt.eot);
   src: 
     local('Source Sans Pro Bold Italic'), 
     local('SourceSansPro-BoldIt'), 
-      url(/assets/fonts/Source_Sans_Pro/SourceSansPro-BoldIt.eot)
+      url(fonts/Source_Sans_Pro/SourceSansPro-BoldIt.eot)
         format('embedded-opentype'), 
-      url(/assets/fonts/Source_Sans_Pro/SourceSansPro-BoldIt.woff)
+      url(fonts/Source_Sans_Pro/SourceSansPro-BoldIt.woff)
         format('woff');
 }
