@@ -464,6 +464,9 @@ table.tableListing tbody td {
 	line-height: 1.5;
 	color: #555;
 }
+table#tableListing tbody td {
+	vertical-align: top;
+}
 table.tableListing input[type="checkbox"]{
 	margin-top:3px;
 }
